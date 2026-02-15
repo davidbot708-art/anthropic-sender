@@ -4,3 +4,6 @@ sent-articles.json
 node_modules/
 .env
 .DS_Store
+articles/
+sent-articles.json
+*.log
