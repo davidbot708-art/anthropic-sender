@@ -1,9 +1,13 @@
-articles/
-sent-articles.json
-*.log
 node_modules/
 .env
 .DS_Store
-articles/
-sent-articles.json
 *.log
+
+# Downloaded content (large files)
+articles/
+full-articles/
+articles-output/
+images/
+
+# State file
+sent-articles.json
