@@ -1,0 +1,10 @@
+{
+  "name": "anthropic-sender",
+  "version": "1.0.0",
+  "description": "Check Anthropic blog for new articles and send to Kindle",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
